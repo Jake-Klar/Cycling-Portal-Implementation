@@ -1,4 +1,3 @@
 # ECM1410-T2CW
-Cycling Project Coursework
-
-If anything ranking by time fails, please still check for point based classification functionality
+A back end solution to a provided front end designed by myself and a partner for our Object Orientated Programming class.
+I scored an 89% with this project
